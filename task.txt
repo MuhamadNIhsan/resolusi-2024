@@ -1,3 +1,9 @@
 بسم الله الرحمن الرحيم
 الحمد لله رب العالمين
 اللهم صل على سيدنا محمد وعلى علي سيدنا محمد
+
+Task:
+1. Create eArsip with multiple PL :
+  a. Python - Flask
+  b. Python - Django
+  c. PHP - Laravel
